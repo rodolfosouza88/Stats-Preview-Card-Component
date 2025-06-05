@@ -4,9 +4,7 @@ Projeto desenvolvido a partir do **design do Figma** fornecido para treinar habi
 
 ## 🔗 **Link do Projeto (Vercel)**
 
-👉 [Clique aqui para acessar o projeto](https://vercel.com/SEU-LINK-AQUI)
-
-_(Atualize com o link assim que fizer o deploy no Vercel)_
+👉 [Clique aqui para acessar o projeto](https://stats-preview-card-component-p5xl.vercel.app/)
 
 ---
 
@@ -21,11 +19,11 @@ _(Atualize com o link assim que fizer o deploy no Vercel)_
 
 ### 💻 Desktop
 
-![Desktop Screenshot](./images/desktop-preview.png)
+![Desktop Screenshot](/img/project-desktop.png)
 
 ### 📱 Mobile
 
-![Mobile Screenshot](./images/mobile-preview.png)
+![Mobile Screenshot](/img/project-mobile.png)
 
 ---
 
